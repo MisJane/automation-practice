@@ -1,0 +1,15 @@
+{
+  "libraryName": "Demo Library",
+  "updatedAt": "2026-04-08",
+  "books":
+    {
+      "id": "B001",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "year": 2008,
+      "genre": "Software Engineering",
+      "language": "English",
+      "ISBN": "9780132350884",
+      "status": "available"
+    }
+}
